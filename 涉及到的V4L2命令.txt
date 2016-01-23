@@ -1,0 +1,19 @@
+struct v4l2_buffer 
+struct v4l2_capability
+struct v4l2_fmt
+struct v4l2_cropcap
+struct v4l2_crop
+struct v4l2_requestbuffers
+
+
+Command:
+vidioc_dqbuf
+vidioc_qbuf
+vidioc_streamoff
+vidioc_streamon
+vidioc_querycap
+vidioc_cropcap
+	vidioc_s_crop
+vidioc_s_fmt
+vidioc_reqbufs
+vidioc_querybuf
