@@ -11,3 +11,14 @@
 【11】基于JRTPLIB库的H_264视频传输系统，孙克辉
 【12】JRPTLIB在网络视频监控系统中的应用，王学智
 【13】基于JRTPLIB下的视频监控头系统的实现，刘建军
+【14】基于FFmpeg的视频编码存储研究与实现，吴张顺（杭州电子科技大学学报）
+【15】基于FFmpeg的远程视频监控系统编解码，辛长春
+【16】基于流媒体的Android远程桌面的设计与实现，李超
+【17】RFC1889
+【18】RFC3550
+【19】RFC3551
+【20】基于Android的流媒体播放器的设计与实现，郝明磊
+【21】Rate-Constrained Coder Control and Comparison of Video Coding Standards，Thomas Wiegand（01218200.pdf）
+【22】JNI的wiki页面
+【23】JNI技术实现跨平台开发的研究
+【24】利用JNI实现Java与C通信，向模军
